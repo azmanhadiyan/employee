@@ -1,0 +1,25 @@
+body{
+	margin:0;
+	padding: 0;
+}
+.area{
+	height:100vh;
+	width: 100%;
+	background-image: url(switzerland.jpg);
+	-webkit-background-size: cover;
+	background-size: cover;
+	background-position: center center;
+}
+.menu-area{
+	position: static;
+}
+.mega-area{
+	position: absolute;
+	width: 100%;
+	left: 0;
+	right: 0;
+	padding: 15px;
+}
+.teks-besar{
+	font-size: 30px;
+}

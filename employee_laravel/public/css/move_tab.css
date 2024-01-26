@@ -1,0 +1,7 @@
+.pdf_documents li{ float:left; background-color:#f0f0f0;}
+    .pdf_documents .active{ background-color:#8ce1e2; }
+    /*simple clearfix for demo*/
+    .clearfix{ overflow:hidden; }
+
+    /*hide inactive tab content by default*/
+    .pdf_box .legales{ display:none; }
